@@ -16,5 +16,6 @@ This was a template used by students to setup their own.
 ## Business operational policies and rules
 ## Business operational constraints
 ## Business operational modes
+Such as your normal operating mode, transitions or transportation, expected divergent (alternate) modes, or different emergencies
 ## Business operational quality
 ## Business structure
