@@ -1,4 +1,5 @@
 # Introduction
+This was a template used by students to setup their own.
 ## Business purpose
 ## Business scope
 ## Overview
